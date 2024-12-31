@@ -1,0 +1,592 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1400px;
+    height: 700px;
+    background: black;
+     top: px;
+    /* left: 350px; */
+    position: relative;
+}
+.chess-box{
+    left: 350px;
+    
+}
+.one{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 25px;
+   
+}
+.two{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 25px;
+    left: 82px;
+   
+}
+ .three{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 25px;
+    left: 165px;
+    
+}
+.four{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 25px;
+    left: 247px;
+    
+}
+.five{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 25px;
+    left: 330px;
+    
+}
+.six{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 25px;
+    left: 412px;
+    
+}
+.seven{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 25px;
+    left: 494px;
+    
+}
+.eight{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 25px;
+    left: 576px;
+    
+}
+.nine{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 107px;
+    
+
+    
+}
+.ten{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 107px;
+    left: 82px;
+    
+}
+ .elev{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 107px;
+    left: 165px;
+    
+}
+.twl{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 107px;
+    left: 247px;
+    
+}
+.thir{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 107px;
+    left: 330px;
+    
+}
+.fournt{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 107px;
+    left: 412px;
+    
+}
+.fivte{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 107px;
+    left: 494px;
+    
+}
+.sixt{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 107px;
+    left: 576px;
+    
+}
+.sevent{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 189px;
+}
+.eighteen{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 189px;
+    left: 82px;
+    
+}
+.nineteen{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 189px;
+    left: 165px;
+    
+}
+.twenty{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 189px;
+    left: 247px;
+
+}
+.tewn-one{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 189px;
+    left: 330px;
+    
+}
+.tewn-two{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 25px;
+    left: 412px;
+    
+}
+.tewn-thre{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 189px;
+    left: 412px;
+    
+}
+.tewn-four{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 189px;
+    left: 494px;
+    
+}
+.tewn-five{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 189px;
+    left: 576px;
+    
+}
+.tewn-six{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 271px;
+    
+}
+.tewn-seven{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 271px;
+    left: 82px;
+    
+}
+.tewn-eight{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 271px;
+    left: 165px;
+    
+}
+.tewn-nine{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 271px;
+    left: 247px;
+    
+}
+.thirty{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 271px;
+    left: 330px;
+    
+}
+.thirty-one{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 271px;
+    left: 412px;
+    
+}
+.thirty-two{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 271px;
+    left: 494px;
+    
+}
+.thirty-three{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 271px;
+    left: 576px;
+    
+}
+.thirty-four{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 353px;
+}
+.thirty-five{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 353px;
+    left: 82px;
+    
+}
+.thirty-six{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 353px;
+    left: 165px;
+    
+}
+.thirty-seven{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 353px;
+    left: 247px;
+    
+}
+.thirty-eight{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 353px;
+    left: 330px;
+    
+}
+.thirty-nine{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 353px;
+    left: 412px;
+    
+}
+.fourty{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 353px;
+    left: 494px;
+    
+}
+.fourty-one{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 353px;
+    left: 576px;
+    
+}
+.fourty-two{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 435px;
+   
+}
+.fourty-three{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 435px;
+    left: 82px;
+   
+}
+.fourty-four{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 435px;
+    left: 165px;
+ 
+}
+.fourty-five{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 435px;
+    left: 247px;
+    
+}
+.fourty-six{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 435px;
+    left: 330px;
+  
+}
+.fourty-seven{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 435px;
+    left: 412px;
+
+}
+.fourty-eight{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 435px;
+    left: 494px;
+ 
+}
+.fourty-nine{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 435px;
+    left: 576px;
+    
+}
+.fifty{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 517px;
+}
+.fifty-one{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 517px;
+    left: 82px;
+
+}
+.fifty-two{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 517px;
+    left: 165px;
+   
+}
+.fifty-three{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 517px;
+    left: 247px;
+    
+}
+.fifty-four{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 517px;
+    left: 330px;
+   
+}
+.fifty-five{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 517px;
+    left: 412px;
+   
+}
+.fifty-six{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 517px;
+    left: 494px;
+    
+}
+.fifty-seven{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 517px;
+    left: 576px;
+    
+}
+.fifty-eight{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 599px;
+   
+}
+.fifty-nine{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 599px;
+    left: 82px;
+    
+}
+.sixty{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 599px;
+    left: 165px;
+    
+}
+.sixty-one{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 599px;
+    left: 247px;
+    
+}
+.sixty-two{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 599px;
+    left: 330px;
+    
+}
+.sixty-three{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 599px;
+    left: 412px;
+    
+}
+.sixty-four{
+    width: 80px;
+    height: 80px;
+    background: black;
+    position: absolute;
+    top: 599px;
+    left: 494px;
+    
+}
+.sixty-five{
+    width: 80px;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 599px;
+    left: 576px;
+    
+}
